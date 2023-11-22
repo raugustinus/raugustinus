@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am Robert Augustinus and I am self employed. If you require some of my skills in your organisation you can find more on [OpenSolutions.nl](http://opensolutions.nl).
+I'm Robert and I have been coding since I don't know when. I guess I started around 1988-1990 on my Amiga 500.
+The best days ever.
 
- - Working on the quantum gateway foundation dashboard in go and svelte
- - Learning to master neovim and the flamenco guitar
- - Ask me about the quantum gateway foundation and what we do
+ - Working on the codebase @ Quantum Gateway Solutions in go, javascript/typescript.
+ - Learning to master neovim and the flamenco guitar.
+ - Ask me about the quantum gateway foundation and what we do.
